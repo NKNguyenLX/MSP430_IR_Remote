@@ -34,7 +34,7 @@
 #include <msp430.h>
 #include <stdint.h>
 #include <stdio.h>
-#include "IRrecv.h"
+#include "IR_Recv.h"
 
 
 
