@@ -1,4 +1,4 @@
-# MSP430_IR_Remote
+# Infrared Remote Control
 This document is written for those who are new to infrared transmission. Specially, for user of MSP430G2xx microcontroller.
 
 ## **What is Infrared remote control (IRC)?**
